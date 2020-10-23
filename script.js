@@ -1,1 +1,1 @@
-window.location.replace("https://www.github.com");
+window.location.replace("https://www.google.com");
